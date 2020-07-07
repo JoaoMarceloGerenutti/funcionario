@@ -1,4 +1,4 @@
-# funcionarios
+# funcionario
 Exercício para fixação de Orientação a Objetos
 
 Fazer um programa para ler os dados de um funcionário (nome, salário bruto e imposto). Em
